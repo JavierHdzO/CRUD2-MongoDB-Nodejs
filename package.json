@@ -12,6 +12,7 @@
   "author": "https://github.com/JavierHdzO",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.16.7",
     "dotenv": "^12.0.3",
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
